@@ -28,7 +28,7 @@ The website was created using only HTML and contains more than 25 different HTML
 
 Question 2: HTML Elements
 
-1. Five challenging HTML elements
+##1. Five challenging HTML elements
 
 The five elements I found most challenging were:
 
@@ -42,7 +42,7 @@ The five elements I found most challenging were:
 
 5. "<img>" – I had to correctly use the "src" and "alt" attributes and make sure the image file was in the correct location.
 
-2. Use of semantic elements
+##2. Use of semantic elements
 
 I used semantic HTML elements to organize my website. The "<header>" contains the website title, introduction, and navigation menu. The "<main>" contains the main content, while "<section>" elements separate areas such as About Me, Education, Skills, Hobbies, Goals, and Contact.
 
@@ -50,13 +50,13 @@ The "<article>" element was used for independent pieces of content, while the "<
 
 Using semantic elements makes the website easier to understand, maintain, and navigate.
 
-3. Most useful element for organizing the layout
+##3. Most useful element for organizing the layout
 
 The "<section>" element was the most useful because it allowed me to divide the webpage into clear and meaningful parts. Each section has a specific purpose, making the website more organized and easier to navigate.
 
 Question 3: HTML Attributes
 
-1. Three essential attributes
+##1. Three essential attributes
 
 The three attributes I found most essential were:
 
@@ -64,19 +64,19 @@ The three attributes I found most essential were:
 - "src" – Used to specify the location of my profile image.
 - "id" – Used to give sections unique identifiers and connect them to navigation links.
 
-2. Difference between class and id
+##2. Difference between class and id
 
 The "id" attribute identifies a specific element with a unique name. I used IDs such as "about", "education", and "contact" for different sections of my website.
 
 The "class" attribute is normally used when several elements need to share the same classification or styling. Since my website was created using HTML only and did not require CSS, I mainly used the "id" attribute.
 
-3. Attribute that improved user experience
+##3. Attribute that improved user experience
 
 The "href" attribute improved the user experience the most because it allowed me to create navigation links. Users can click a link and move directly to a particular section of the webpage instead of scrolling through the entire page.
 
 Question 4: Development Process
 
-1. Planning the website structure
+##1. Planning the website structure
 
 Before coding, I identified the information I wanted to include and divided it into sections:
 
@@ -90,7 +90,7 @@ Before coding, I identified the information I wanted to include and divided it i
 
 I then selected appropriate semantic HTML elements for each section and planned the navigation links.
 
-2. Testing and debugging
+##2. Testing and debugging
 
 I tested the website by opening the HTML file in a web browser and checking whether the content displayed correctly.
 
@@ -98,7 +98,7 @@ I checked the navigation links, image, table, and contact form. When I found err
 
 After making corrections, I refreshed the webpage to confirm that the errors had been fixed.
 
-3. Challenges faced
+##3. Challenges faced
 
 One challenge was understanding how different HTML elements work together, especially the table and contact form. I overcame this by learning the purpose of each element and building the sections step by step.
 
@@ -108,7 +108,7 @@ I also had difficulty displaying the profile image. I solved this by placing the
 
 Question 5: Git & GitHub Implementation
 
-1. Git commands used
+##1. Git commands used
 
 The Git commands I used included:
 
@@ -122,9 +122,9 @@ git push -u origin main
 
 These commands helped me initialize my repository, track changes, save versions of my work, connect my project to GitHub, and upload my files.
 
-2. Number of commits and commit strategy
+##2. Number of commits and commit strategy
 
-I made [insert your actual number of commits] commits during development.
+I made [5] commits during development.
 
 I used short and descriptive commit messages to explain the changes made. Examples include:
 
